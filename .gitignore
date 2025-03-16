@@ -15,3 +15,19 @@ temp/
 resource/log/
 main.exe
 main.exe~
+
+# Clacky-related files
+.1024*
+!.1024
+.breakpoints
+
+# Frontend related files
+RuoYi-Vue3/node_modules/
+RuoYi-Vue3/.vscode
+RuoYi-Vue3/.idea
+RuoYi-Vue3/dist/
+RuoYi-Vue3/.env.local
+RuoYi-Vue3/.env.*.local
+RuoYi-Vue3/npm-debug.log*
+RuoYi-Vue3/yarn-debug.log*
+RuoYi-Vue3/yarn-error.log*
