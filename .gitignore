@@ -16,6 +16,8 @@ resource/log/
 main.exe
 main.exe~
 
+nohup.out
+
 # Clacky-related files
 .1024*
 !.1024
